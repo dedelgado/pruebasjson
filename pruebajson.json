@@ -1,16 +1,23 @@
 {
-  "info": {
-    "count": "826",
-    "pages": "42",
-    "next": "https://rickandmortyapi.com/api/character?page=2",
-    "prev": "null"
+  "payers": {
+    "selected": "",
+    "options": [
+      {"id" : 1, "text" :"Payer1"},
+      {"id" : 2, "text" :"Payer2"},
+      {"id" : 3, "text" :"Payer3"}
+      ]
   },
-  "results": {
-    "id": "1",
-    "name": "Rick Sanchez",
-    "status": "Alive",
-    "species": "Human",
-    "type": "",
-    "gender": "Male"
-  }
+  "applicants": {
+    "selected": "",
+    "options": [
+      {"id" : 1, "text" :"Applicant 1"},
+      {"id" : 2, "text" :"Applicant 2"},
+      {"id" : 3, "text" :"Applicant 3"}
+      ]
+  },
+  "totals": [
+    {"value": "100", "text" :"Texto uno", "color": "#9D3019"},
+    {"value": "200", "text" :"Texto dos", "color": "#8B574C"},
+    {"value": "300", "text" :"texto tres", "color": "#47A34F"}
+    ]
 }

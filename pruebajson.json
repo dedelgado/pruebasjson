@@ -15,6 +15,13 @@
       {"id" : 3, "text" :"Applicant 3"}
       ]
   },
+  "bills-due": [
+      {"total-pay" : "$15.000 USD", "invoice-date" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Number of order" :"1234567890"},
+      {"total-pay" : "$15.000 USD", "invoice-date" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Number of order" :"1234567890"},
+      {"total-pay" : "$30.000 USD", "invoice-date" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Number of order" :"1234567890"},
+      {"total-pay" : "$10.000 USD", "invoice-date" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Number of order" :"1234567890"},
+      {"total-pay" : "$10.000 USD", "invoice-date" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Number of order" :"1234567890"}
+      ],
   "totals": [
     {"value": "04", "text" :"TOTAL FACTURAS VENCIDAS POR PAGAR", "color": "#FFF701"},
     {"value": "10", "text" :"NÚMERO DE FACTURAS", "color": "#050505"},

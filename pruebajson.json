@@ -15,6 +15,31 @@
       {"id" : 3, "text" :"Applicant 3"}
       ]
   },
+  "status": {
+    "selected": "",
+    "options": [
+      {"id" : 1, "text" :"Estado 1"},
+      {"id" : 2, "text" :"Estado 2"},
+      {"id" : 3, "text" :"Estado 3"}
+      ]
+  },
+  "order": {
+    "selected": "",
+    "options": [
+      {"id" : 1, "text" :"Order 1"},
+      {"id" : 2, "text" :"Order 2"},
+      {"id" : 3, "text" :"Order 3"}
+      ]
+  },
+  "products": {
+    "selected": "",
+    "options": [
+      {"id" : 1, "text" :"Concreto"},
+      {"id" : 2, "text" :"Agregados"},
+      {"id" : 3, "text" :"Roofing"},
+      {"id" : 4, "text" :"Morteros"}
+      ]
+  },
   "bills-due": [
       {"totalpay" : "$15.000 USD", "invoicedate" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Numberoforder" :"1234567890"},
       {"totalpay" : "$15.000 USD", "invoicedate" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Numberoforder" :"1234567890"},

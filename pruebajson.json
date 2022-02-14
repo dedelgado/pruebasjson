@@ -53,5 +53,18 @@
     {"value": "$60.000 USD", "text" :"MONTO VENCIDO", "color": "#F5333F"},
     {"value": "$10.000 USD", "text" :"MONTO POR VENCER", "color": "#FF8900"},
     {"value": "$20.000 USD", "text" :"SALDO A FAVOR", "color": "#92C030"}
-    ]
+    ],
+  "bills": [
+    {"bill": "# 7579", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
+    {"bill": "# 7580", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 30.000", "currency": "USD" },
+    {"bill": "# 7581", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 25.000", "currency": "USD" },
+    {"bill": "# 7582", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
+    {"bill": "# 7583", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 15.000", "currency": "USD" },
+    {"bill": "# 7584", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 25.000", "currency": "USD" },
+    {"bill": "# 7585", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
+    {"bill": "# 7586", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
+    {"bill": "# 7587", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 25.000", "currency": "USD" },
+    {"bill": "# 7588", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
+    {"bill": "# 7589", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
+    {"bill": "# 7590", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 25.000", "currency": "USD" }
 }

@@ -67,5 +67,11 @@
     {"bill": "# 7588", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
     {"bill": "# 7589", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 50.000", "currency": "USD" },
     {"bill": "# 7590", "expiration": "27 / 08 / 2021", "order": "# 123456789", "orderDate": "27 / 09 / 2021", "total": "$ 25.000", "currency": "USD" }
+    ],
+  "totals-value": [
+    {"value": "$90.000 USD", "text" :"LÍMITE DE CRÉDITO"},
+    {"value": "$70.000 USD", "text" :"COMPROMETIDO"},
+    {"value": "$0.0USD", "text" :"PENDIENTE POR FACTURAR"},
+    {"value": "$10.000 USD", "text" :"CUPO DISPONIBLE"}
     ]
 }

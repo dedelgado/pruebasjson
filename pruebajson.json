@@ -75,10 +75,10 @@
     {"value": "$10.000 USD", "text" :"CUPO DISPONIBLE"}
     ],
   "account-status": [
-    {"date": "27 / 08 / 2021", "payment-type": "Crédito", "doc-intern": "1234567890", "doc-external": "2345678901", "expiration-date": "27 / 08 / 2021", "amount": "-$ 100.000", "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "payment-type": "Contado", "doc-intern": "1234567890", "doc-external": "2345678901", "expiration-date": "27 / 08 / 2021", "amount": "$ 100.000", "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "payment-type": "Contado", "doc-intern": "1234567890", "doc-external": "2345678901", "expiration-date": "27 / 08 / 2021", "amount": "-$ 100.000", "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "payment-type": "Crédito", "doc-intern": "1234567890", "doc-external": "2345678901", "expiration-date": "27 / 08 / 2021", "amount": "-$ 100.000", "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "payment-type": "Contado", "doc-intern": "1234567890", "doc-external": "2345678901", "expiration-date": "27 / 08 / 2021", "amount": "$ 100.000", "balance": "$ 100.000"}
+    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": "-$ 100.000", "balance": "$ 100.000"},
+    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": "$ 100.000", "balance": "$ 100.000"},
+    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": "-$ 100.000", "balance": "$ 100.000"},
+    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": "-$ 100.000", "balance": "$ 100.000"},
+    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": "$ 100.000", "balance": "$ 100.000"}
     ]
 }

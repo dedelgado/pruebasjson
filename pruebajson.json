@@ -104,6 +104,8 @@
     {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 103000, "balance": "$ 100.000"},
     {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 102000, "balance": "$ 100.000"},
     {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -130000, "balance": "$ 100.000"},
+    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -105000, "balance": "$ 100.000"},
+    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -130000, "balance": "$ 100.000"},
     {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -105000, "balance": "$ 100.000"}
     ]
 }

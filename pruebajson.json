@@ -1,6 +1,5 @@
 [
-  {
-    "sku": "6984003016418",
+  "6984003016418": {
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -16,26 +15,28 @@
     "label_4": [
     ],
     "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"
+    }
+ },
+  "6984003016401": {
+    "brand": "LG",
+    "comparable": 1,
+    "label_1": [
+      {
+        "text": "PROMO",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_2": [
+    ],
+    "label_3": [
+    ],
+    "label_4": [
+    ],
+    "price_card_message": ""  
+  }
   },
+  "9321214213255": {
   {
-    "sku": "6984003016401",
-    "brand": "LG",
-    "comparable": 1,
-    "label_1": [
-      {
-        "text": "PROMO",
-        "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_2": [
-    ],
-    "label_3": [
-    ],
-    "label_4": [
-    ],
-    "price_card_message": ""  },
-  {
-    "sku": "9321214213255",
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -54,76 +55,34 @@
     ],
     "label_4": [
     ],
-    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA" 
+  }
   },
+"8202109201032": {   
+{
+    "brand": "LG",
+    "comparable": 1,
+    "label_1": [
+      {
+        "text": "PROMO",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_2": [
+      {
+        "text": "CYBERBLACK",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_3": [
+    ],
+    "label_4": [
+    ],
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA" 
+}
+  },
+    "8202105051211" : {
    {
-    "sku": "8202109201032",
-    "brand": "LG",
-    "comparable": 1,
-    "label_1": [
-      {
-        "text": "PROMO",
-        "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_2": [
-      {
-        "text": "CYBERBLACK",
-        "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_3": [
-    ],
-    "label_4": [
-    ],
-    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
-  },
-   {
-    "sku": "8202105051211",
-    "brand": "LG",
-    "comparable": 1,
-    "label_1": [
-      {
-        "text": "PROMO",
-        "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_2": [
-      {
-        "text": "CYBERBLACK",
-        "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_3": [
-    ],
-    "label_4": [
-    ],
-    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
-  },
- {
-    "sku": "8202109081702",
-    "brand": "LG",
-    "comparable": 1,
-    "label_1": [
-      {
-        "text": "PROMO",
-        "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_2": [
-      {
-        "text": "CYBERBLACK",
-        "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_3": [
-    ],
-    "label_4": [
-    ],
-    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
-  },
- {
-    "sku": "6984003016364",
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -144,4 +103,51 @@
     ],
     "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
   }
+  },
+"8202109081702": { 
+{
+    "brand": "LG",
+    "comparable": 1,
+    "label_1": [
+      {
+        "text": "PROMO",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_2": [
+      {
+        "text": "CYBERBLACK",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_3": [
+    ],
+    "label_4": [
+    ],
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
+  },
+}
+ "6984003016364": {
+{
+    "brand": "LG",
+    "comparable": 1,
+    "label_1": [
+      {
+        "text": "PROMO",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_2": [
+      {
+        "text": "CYBERBLACK",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_3": [
+    ],
+    "label_4": [
+    ],
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
+  }
+}
 ]

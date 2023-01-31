@@ -102,10 +102,6 @@
     "brand": "LG",
     "comparable": 1,
     "label_1": [
-      {
-        "text": "PROMO",
-        "text_color": "#fff",
-        "background_color": "#000"      }
     ],
     "label_2": [
       {
@@ -123,16 +119,8 @@
     "brand": "LG",
     "comparable": 0,
     "label_1": [
-      {
-        "text": "PROMO",
-        "text_color": "#fff",
-        "background_color": "#000"      }
     ],
     "label_2": [
-      {
-        "text": "CYBERBLACK",
-        "text_color": "#fff",
-        "background_color": "#000"      }
     ],
     "label_3": [
     ],

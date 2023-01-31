@@ -21,12 +21,12 @@
     "brand": "LG",
     "comparable": 0,
     "label_1": [
+    ],
+    "label_2": [
       {
         "text": "PROMO",
         "text_color": "#fff",
-        "background_color": "#000"      }
-    ],
-    "label_2": [
+        "background_color": "#000"}
     ],
     "label_3": [
     ],

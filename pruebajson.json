@@ -1,5 +1,5 @@
 [
-  {
+
   "6984003016418": {
     "brand": "LG",
     "comparable": 1,
@@ -16,9 +16,7 @@
     "label_4": [
     ],
     "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"
-    }
  },
-  {
   "6984003016401": {
     "brand": "LG",
     "comparable": 1,
@@ -34,11 +32,10 @@
     ],
     "label_4": [
     ],
-    "price_card_message": ""  
-  }
+    "price_card_message": "" 
   },
+
   "9321214213255": {
-  {
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -57,11 +54,9 @@
     ],
     "label_4": [
     ],
-    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA" 
-  }
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"
   },
-"8202109201032": {   
-{
+"8202109201032": {
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -81,10 +76,8 @@
     "label_4": [
     ],
     "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA" 
-}
   },
     "8202105051211" : {
-   {
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -103,11 +96,9 @@
     ],
     "label_4": [
     ],
-    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
-  }
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"
   },
-"8202109081702": { 
-{
+"8202109081702": {
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -128,9 +119,7 @@
     ],
     "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
   },
-}
  "6984003016364": {
-{
     "brand": "LG",
     "comparable": 1,
     "label_1": [
@@ -149,7 +138,6 @@
     ],
     "label_4": [
     ],
-    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA" 
   }
-}
 ]

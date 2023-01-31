@@ -1,111 +1,58 @@
-{
-  "payers": {
-    "selected": "",
-    "options": [
-      {"id" : 1, "text" :"Payer1"},
-      {"id" : 2, "text" :"Payer2"},
-      {"id" : 3, "text" :"Payer3"}
-      ]
-  },
-  "applicants": {
-    "selected": "",
-    "options": [
-      {"id" : 1, "text" :"Applicant 1"},
-      {"id" : 2, "text" :"Applicant 2"},
-      {"id" : 3, "text" :"Applicant 3"}
-      ]
-  },
-  "status": {
-    "selected": "",
-    "options": [
-      {"id" : 1, "text" :"Estado 1"},
-      {"id" : 2, "text" :"Estado 2"},
-      {"id" : 3, "text" :"Estado 3"}
-      ]
-  },
-  "order": {
-    "selected": "",
-    "options": [
-      {"id" : 1, "text" :"Order 1"},
-      {"id" : 2, "text" :"Order 2"},
-      {"id" : 3, "text" :"Order 3"}
-      ]
-  },
-  "products": {
-    "selected": "",
-    "options": [
-      {"id" : 1, "text" :"Concreto"},
-      {"id" : 2, "text" :"Agregados"},
-      {"id" : 3, "text" :"Roofing"},
-      {"id" : 4, "text" :"Morteros"}
-      ]
-  },
-  "bills-due": [
-      {"totalpay" : "$15.000 USD", "invoicedate" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Numberoforder" :"1234567890"},
-      {"totalpay" : "$15.000 USD", "invoicedate" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Numberoforder" :"1234567890"},
-      {"totalpay" : "$30.000 USD", "invoicedate" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Numberoforder" :"1234567890"},
-      {"totalpay" : "$10.000 USD", "invoicedate" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Numberoforder" :"1234567890"},
-      {"totalpay" : "$10.000 USD", "invoicedate" :"27 / 09 / 2021", "expiration" :"27 / 09 / 2021", "Numberoforder" :"1234567890"}
-      ],
-  "totals": [
-    {"value": "04", "text" :"TOTAL FACTURAS VENCIDAS POR PAGAR", "color": "#FFF701"},
-    {"value": "10", "text" :"NÚMERO DE FACTURAS", "color": "#050505"},
-    {"value": "$60.000 USD", "text" :"MONTO VENCIDO", "color": "#F5333F"},
-    {"value": "$10.000 USD", "text" :"MONTO POR VENCER", "color": "#FF8900"},
-    {"value": "$20.000 USD", "text" :"SALDO A FAVOR", "color": "#92C030"}
+[
+  {
+    "sku": "24-WO1",
+    "brand": "LG",
+    "comparable": 1,
+    "label_1": [
+      {
+        "text": "PROMO",
+        "text_color": "#fff",
+        "background_color": "#000"      }
     ],
-  "bills": [
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "50.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "30.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "25.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "50.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "15.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "25.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "50.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "50.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "25.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "50.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "50.000", "currency": "USD" },
-    {"applicant": "# 938377272729", "expiration": "27 / 08 / 2021", "docInterno": "2345678901",  "orderDate": "27 / 09 / 2021", "state": "pagada", "docExternal": "9223456789", "total": "25.000", "currency": "USD" }
+    "label_2": [
     ],
-  "totals-value": [
-    {"value": "$90.000 USD", "text" :"LÍMITE DE CRÉDITO"},
-    {"value": "$70.000 USD", "text" :"COMPROMETIDO"},
-    {"value": "$0.0USD", "text" :"PENDIENTE POR FACTURAR"},
-    {"value": "$10.000 USD", "text" :"CUPO DISPONIBLE"}
+    "label_3": [
     ],
-  "account-status": [
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 102000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -170000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -150000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -130000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 102000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -130000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -1000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 100000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -1000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -1000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 104000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 105000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 102000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -14000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -220000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 1020000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 103000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": 102000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -130000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -105000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Crédito", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -130000, "balance": "$ 100.000"},
-    {"date": "27 / 08 / 2021", "paymentType": "Contado", "docIntern": "1234567890", "docExternal": "2345678901", "expirationDate": "27 / 08 / 2021", "amount": -105000, "balance": "$ 100.000"}
-    ]
-}
+    "label_4": [
+    ],
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"
+  },
+  {
+    "sku": "24-WO1",
+    "brand": "LG",
+    "comparable": 1,
+    "label_1": [
+      {
+        "text": "PROMO",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_2": [
+    ],
+    "label_3": [
+    ],
+    "label_4": [
+    ],
+    "price_card_message": ""  },
+  {
+    "sku": "24-WO1",
+    "brand": "LG",
+    "comparable": 1,
+    "label_1": [
+      {
+        "text": "PROMO",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_2": [
+      {
+        "text": "CYBERBLACK",
+        "text_color": "#fff",
+        "background_color": "#000"      }
+    ],
+    "label_3": [
+    ],
+    "label_4": [
+    ],
+    "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"  }
+]

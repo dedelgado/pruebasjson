@@ -1,4 +1,5 @@
 [
+  {
   "6984003016418": {
     "brand": "LG",
     "comparable": 1,
@@ -17,6 +18,7 @@
     "price_card_message": "Llévalo por %price_card con tarjetas LAMA PLAZOS PROMERICA"
     }
  },
+  {
   "6984003016401": {
     "brand": "LG",
     "comparable": 1,
